@@ -3,16 +3,19 @@
 ## Skills
 
 Programming Languages: Python, C++, Java, SQL
+
 Frameworks/Tools: PyTorch, TensorFlow, Git, Pandas, NumPy, Crypten, SciPy, Matplotlib, Scikit-learn, Spring Boot, MongoDB, Docker
+
 Web Technologies: HTML/CSS, JavaScript, Angular, Typescript
 
 ## Education
-University of Southern California, Los Angeles, CA
+### University of Southern California, Los Angeles, CA
 Master of Science in Electrical Engineering (Machine Learning and Data Science)
-● Coursework: Probability Theory, Linear Algebra, Machine Learning I: Supervised Learning, Deep Learning, Computing
+
+Coursework: Probability Theory, Linear Algebra, Machine Learning I: Supervised Learning, Deep Learning, Computing
 and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelerators), Database Systems, Data and Information Retrieval
 
-RV College of Engineering, Bengaluru, India
+### RV College of Engineering, Bengaluru, India
 Bachelor of Engineering in Telecommunications Engineering
 
 ## Work Experience
@@ -28,7 +31,7 @@ Bachelor of Engineering in Telecommunications Engineering
 ### Llama 2 Finetuning
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Efficiently fine-tuned Llama2 7B model on a single GPU with multiple strategies such as gradient accumulation, gradient checkpointing, mixed precision training, and low-rank adaptation on the Alpaca dataset and analyzed the performance and cost of the model with limited computational resources (memory).
+- Efficiently fine-tuned Llama2 7B model on a single GPU with multiple strategies such as gradient accumulation, gradient checkpointing, mixed precision training, and low-rank adaptation on the Alpaca dataset and analyzed the performance and cost of the model with limited computational resources (memory).
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
