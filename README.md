@@ -6,16 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Prithvik Gowda</title>
-<meta name="generator" content="Jekyll v3.9.3">
-<meta property="og:title" content="Data Scientist">
-<meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://prthvk.github.io/">
-<meta property="og:url" content="https://prthvk.github.io/">
-<meta property="og:site_name" content="Prithvik Gowda">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="Prithvik Gowda">
+
 
 <!-- End Jekyll SEO tag -->
 
