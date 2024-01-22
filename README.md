@@ -10,7 +10,8 @@
 <meta name="generator" content="Jekyll v3.9.3">
 <meta property="og:title" content="Data Scientist">
 <meta property="og:locale" content="en_US">
-
+<link rel="canonical" href="https://prthvk.github.io/">
+<meta property="og:url" content="https://prthvk.github.io/">
 <meta property="og:site_name" content="Prithvik Gowda">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
@@ -77,7 +78,6 @@ and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelera
 
 <h2 id="projects">Projects</h2>
 <h3 id="llama-2-finetuning">Llama 2 Finetuning</h3>
-<p><a href="https://www.mdpi.com/1424-8220/22/8/3048">Publication</a></p>
 
 <ul>
   <li>Efficiently fine-tuned Llama2 7B model on a single GPU with multiple strategies such as gradient accumulation, gradient checkpointing, mixed precision training, and low-rank adaptation on the Alpaca dataset and analyzed the performance and cost of the model with limited computational resources (memory).</li>
