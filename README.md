@@ -16,8 +16,7 @@
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="Prithvik Gowda">
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Prithvik Gowda","name":"Prithvik Gowda","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://prthvk.github.io/assets/img/headshot_circle.png"}},"url":"https://prthvk.github.io/"}</script>
+
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/styles/jekyll-theme-minimal.css">
