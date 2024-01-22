@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Data Scientist | Prithvik Gowda</title>
+<title>Prithvik Gowda</title>
 <meta name="generator" content="Jekyll v3.9.3">
 <meta property="og:title" content="Data Scientist">
 <meta property="og:locale" content="en_US">
