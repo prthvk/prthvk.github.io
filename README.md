@@ -10,8 +10,7 @@
 <meta name="generator" content="Jekyll v3.9.3">
 <meta property="og:title" content="Data Scientist">
 <meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://prthvk.github.io/">
-<meta property="og:url" content="https://prthvk.github.io/">
+
 <meta property="og:site_name" content="Prithvik Gowda">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
