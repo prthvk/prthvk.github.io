@@ -21,7 +21,6 @@
 
     <link rel="stylesheet" href="/assets/styles/jekyll-theme-minimal.css">
     <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
