@@ -1,56 +1,119 @@
-# Data Scientist
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-## Skills
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Data Scientist | Prithvik Gowda</title>
+<meta name="generator" content="Jekyll v3.9.3">
+<meta property="og:title" content="Data Scientist">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://prthvk.github.io/">
+<meta property="og:url" content="https://prthvk.github.io/">
+<meta property="og:site_name" content="Prithvik Gowda">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Prithvik Gowda">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Prithvik Gowda","name":"Prithvik Gowda","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://prthvk.github.io/assets/img/headshot_circle.png"}},"url":"https://prthvk.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
 
-Programming Languages: Python, C++, Java, SQL
+    <link rel="stylesheet" href="/assets/styles/jekyll-theme-minimal.css">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-Frameworks/Tools: PyTorch, TensorFlow, Git, Pandas, NumPy, Crypten, SciPy, Matplotlib, Scikit-learn, Spring Boot, MongoDB, Docker
+<!-- Setup Google Analytics -->
 
-Web Technologies: HTML/CSS, JavaScript, Angular, Typescript
 
-## Education
-### University of Southern California, Los Angeles, CA
-Master of Science in Electrical Engineering (Machine Learning and Data Science)
 
-Coursework: Probability Theory, Linear Algebra, Machine Learning I: Supervised Learning, Deep Learning, Computing
-and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelerators), Database Systems, Data and Information Retrieval
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
 
-### RV College of Engineering, Bengaluru, India
-Bachelor of Engineering in Telecommunications Engineering
+<!-- end custom head snippets -->
 
-## Work Experience
-**Research Assistant @ Information Science Institute (USC) (_June 2023 - Present_)**
-- Developing a distributed EDGE system incorporating security features to counter potential cyber or AI-related attacks. We explore possible optimization strategies for private inference algorithms using MPC protocol.
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://prthvk.github.io/">Prithvik Gowda</a></h1>
+          <img src="/assets/img/headshot_circle.png" alt="Logo">
+        <p></p>
+        <p class="view"><a href="https://github.com/prthvk">View My GitHub Profile</a></p>
+      </header>
+      <section>
 
-**Senior Analyst in Software Engineering @ NatWest Group, Bengaluru (India) (_September 2020 - August 2022_)**
-- Designed dialogue flow for NatWest Mobile Banking Application’s CORA chatbot using IBM Watson Assistant for Covid-19 related conversational AI journey/skill to help customers and businesses bank online.
-- Continuously developed and Maintained CORA chatbot’s usability with new features and modifications to dialog flow, debugging through monthly releases to interact with 11 million users.
-- Developed an email content classification and data extraction application. Along with LSTM, tested the application with multiple machine learning models and increased the accuracy of the application from 67% to 81%.
 
-## Projects
-### Llama 2 Finetuning
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+<h2 id="education">Education</h2>
+<h3 id="university-of-southern-california-los-angeles-ca">University of Southern California, Los Angeles, CA</h3>
+<p>Master of Science in Electrical Engineering (Machine Learning and Data Science)</p>
 
-- Efficiently fine-tuned Llama2 7B model on a single GPU with multiple strategies such as gradient accumulation, gradient checkpointing, mixed precision training, and low-rank adaptation on the Alpaca dataset and analyzed the performance and cost of the model with limited computational resources (memory).
+<p>Coursework: Probability Theory, Linear Algebra, Machine Learning I: Supervised Learning, Deep Learning, Computing
+and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelerators), Database Systems, Data and Information Retrieval</p>
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+<h3 id="rv-college-of-engineering-bengaluru-india">RV College of Engineering, Bengaluru, India</h3>
+<p>Bachelor of Engineering in Telecommunications Engineering</p>
 
-### Computer Vision for American Sign Language
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+<h2 id="skills">Skills</h2>
 
-- Developed a fine-tuned deep neural network model to recognize ASL hand gestures. Trained the model with 27000 images of gestures with varying properties and achieved 66% accuracy on the unseen test dataset with different image properties.
-- Developed a Python script that utilizes the trained models to detect and live transcribe ASL hand gestures using the Google text-to-speech (gTTS) library.
+<p>Programming Languages: Python, C++, Java, SQL</p>
 
-![Bike Study](/assets/img/bike_study.jpeg)
+<p>Frameworks/Tools: PyTorch, TensorFlow, Git, Pandas, NumPy, Crypten, SciPy, Matplotlib, Scikit-learn, Spring Boot, MongoDB, Docker</p>
 
-### Credit Card Defaulter Analyzer
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+<p>Web Technologies: HTML/CSS, JavaScript, Angular, Typescript</p>
 
-- Developed a reliable classification model to predict credit card payment defaults by analyzing a dataset of 30,000 Taiwanese customers’ payment information over six months.
-- Trained and evaluated multiple machine learning models and achieved 76.4% accuracy and a F1 score of 0.462 on the test data with extensive data exploration, pre-processing, and feature engineering techniques.
+<h2 id="work-experience">Work Experience</h2>
+<p><strong>Research Assistant @ Information Science Institute (USC) (<em>June 2023 - Present</em>)</strong></p>
+<ul>
+  <li>Developing a distributed EDGE system incorporating security features to counter potential cyber or AI-related attacks. We explore possible optimization strategies for private inference algorithms using MPC protocol.</li>
+</ul>
 
-## Publications
-1. Prithvik H C, Naman Jain, and Rakesh K R, “A Two-Layer Audio Encryption System using Quaternion Transform and Image as a Variable Key”, WHJJ Journal, ISSN NO: 1001 1749, Vol. 16, Issue 05, pp. 477-487, May 2020.
-2. Prithvik H C, Charan K R, Sachin B S, and Rakesh K R, “Implementation of Quantum Key Distribution using Python”, WHJJ Journal, ISSN NO: 1001 1749, Vol. 16, Issue 07, pp. 190-196, July 2020.
-3. Prithvik H C, Naman Jain, Rakesh K R, “Honey Encryption Algorithm to Safeguard Against Brute Force Attack”, International Journal of Engineering Technology Research & Management, ISSN NO: 2456 9348, Vol. 04, Issue 05, pp. 7-10, May 2020.
+<p><strong>Senior Analyst in Software Engineering @ NatWest Group, Bengaluru (India) (<em>September 2020 - August 2022</em>)</strong></p>
+<ul>
+  <li>Designed dialogue flow for NatWest Mobile Banking Application’s CORA chatbot using IBM Watson Assistant for Covid-19 related conversational AI journey/skill to help customers and businesses bank online.</li>
+  <li>Continuously developed and Maintained CORA chatbot’s usability with new features and modifications to dialog flow, debugging through monthly releases to interact with 11 million users.</li>
+  <li>Developed an email content classification and data extraction application. Along with LSTM, tested the application with multiple machine learning models and increased the accuracy of the application from 67% to 81%.</li>
+</ul>
 
+<h2 id="projects">Projects</h2>
+<h3 id="llama-2-finetuning">Llama 2 Finetuning</h3>
+<p><a href="https://www.mdpi.com/1424-8220/22/8/3048">Publication</a></p>
+
+<ul>
+  <li>Efficiently fine-tuned Llama2 7B model on a single GPU with multiple strategies such as gradient accumulation, gradient checkpointing, mixed precision training, and low-rank adaptation on the Alpaca dataset and analyzed the performance and cost of the model with limited computational resources (memory).</li>
+</ul>
+
+
+<h3 id="computer-vision-for-american-sign-language">Computer Vision for American Sign Language</h3>
+
+<ul>
+  <li>Developed a fine-tuned deep neural network model to recognize ASL hand gestures. Trained the model with 27000 images of gestures with varying properties and achieved 66% accuracy on the unseen test dataset with different image properties.</li>
+  <li>Developed a Python script that utilizes the trained models to detect and live transcribe ASL hand gestures using the Google text-to-speech (gTTS) library.</li>
+</ul>
+
+<h3 id="credit-card-defaulter-analyzer">Credit Card Defaulter Analyzer</h3>
+
+<ul>
+  <li>Developed a reliable classification model to predict credit card payment defaults by analyzing a dataset of 30,000 Taiwanese customers’ payment information over six months.</li>
+  <li>Trained and evaluated multiple machine learning models and achieved 76.4% accuracy and a F1 score of 0.462 on the test data with extensive data exploration, pre-processing, and feature engineering techniques.</li>
+</ul>
+
+<h2 id="publications">Publications</h2>
+<ol>
+  <li>Prithvik H C, Naman Jain, and Rakesh K R, “A Two-Layer Audio Encryption System using Quaternion Transform and Image as a Variable Key”, WHJJ Journal, ISSN NO: 1001 1749, Vol. 16, Issue 05, pp. 477-487, May 2020.</li>
+  <li>Prithvik H C, Charan K R, Sachin B S, and Rakesh K R, “Implementation of Quantum Key Distribution using Python”, WHJJ Journal, ISSN NO: 1001 1749, Vol. 16, Issue 07, pp. 190-196, July 2020.</li>
+  <li>Prithvik H C, Naman Jain, Rakesh K R, “Honey Encryption Algorithm to Safeguard Against Brute Force Attack”, International Journal of Engineering Technology Research &amp; Management, ISSN NO: 2456 9348, Vol. 04, Issue 05, pp. 7-10, May 2020.</li>
+</ol>
+
+      </section>
+      <footer>
+        
+        <p></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+  
+
+</body></html>
