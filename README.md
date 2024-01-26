@@ -101,9 +101,9 @@ and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelera
 
 <h2 id="publications">Publications</h2>
 <ol>
-  <li>Prithvik H C, Naman Jain, and Rakesh K R, “A Two-Layer Audio Encryption System using Quaternion Transform and Image as a Variable Key”, WHJJ Journal, ISSN NO: 1001 1749, Vol. 16, Issue 05, pp. 477-487, May 2020.</li><a href="http://wthtjsjs.cn/gallery/57-whjj-may-5403.pdf">Paper</a>
-  <li>Prithvik H C, Charan K R, Sachin B S, and Rakesh K R, “Implementation of Quantum Key Distribution using Python”, WHJJ Journal, ISSN NO: 1001 1749, Vol. 16, Issue 07, pp. 190-196, July 2020.</li><a href="http://wthtjsjs.cn/gallery/23-whjj-july-5556.pdf">Paper</a>
-  <li>Prithvik H C, Naman Jain, Rakesh K R, “Honey Encryption Algorithm to Safeguard Against Brute Force Attack”, International Journal of Engineering Technology Research &amp; Management, ISSN NO: 2456 9348, Vol. 04, Issue 05, pp. 7-10, May 2020.</li><a href="http://www.ijetrm.com/issues/files/May-2020-03-1588486281-M2.pdf">Paper</a>
+  <li>Prithvik H C, Naman Jain, and Rakesh K R, “A Two-Layer Audio Encryption System using Quaternion Transform and Image as a Variable Key”, WHJJ Journal, ISSN NO: 1001 1749, Vol. 16, Issue 05, pp. 477-487, May 2020. <a href="http://wthtjsjs.cn/gallery/57-whjj-may-5403.pdf">Paper</a></li>
+  <li>Prithvik H C, Charan K R, Sachin B S, and Rakesh K R, “Implementation of Quantum Key Distribution using Python”, WHJJ Journal, ISSN NO: 1001 1749, Vol. 16, Issue 07, pp. 190-196, July 2020. <a href="http://wthtjsjs.cn/gallery/23-whjj-july-5556.pdf">Paper</a></li>
+  <li>Prithvik H C, Naman Jain, Rakesh K R, “Honey Encryption Algorithm to Safeguard Against Brute Force Attack”, International Journal of Engineering Technology Research &amp; Management, ISSN NO: 2456 9348, Vol. 04, Issue 05, pp. 7-10, May 2020. <a href="http://www.ijetrm.com/issues/files/May-2020-03-1588486281-M2.pdf">Paper</a></li>
 </ol>
 
       </section>
