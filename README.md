@@ -67,7 +67,7 @@ and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelera
 
 <p><strong>Senior Analyst in Software Engineering @ NatWest Group, Bengaluru (India) (<em>September 2020 - August 2022</em>)</strong></p>
 <ul>
-  <li>Developed email classification application using KNNs and random forest algorithms that classified and extracted data for 18 different categories with an average accuracy of 78%.</li>
+  <li>Developed email classification application using KNNs and random forest algorithms that classified and extracted data for 18 different categories with an average accuracy of 78% and helped streamline internal communication processes.</li>
   <li>Developed a CI/CD pipeline for the email classification application with GitHub Actions and Azure Databricks and made it deployment-ready on the Azure cloud platform.</li>
   <li>Designed dialogue flow for NatWest Mobile Banking Application’s CORA chatbot using IBM Watson Assistant for Covid-19 related conversational AI journey/skill for bank online banking to serve 11 million users.</li>
 </ul>
