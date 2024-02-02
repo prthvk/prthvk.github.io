@@ -40,7 +40,7 @@
 
 Leveraging AI to solve complex challenges and create impactful solutions. I am eager to contribute my skills and experience to a team pushing the boundaries of machine learning. I bring a strong foundation in data analysis and software engineering to solve real-world problems. With a Master's in Electrical Engineering (Machine Learning & Data Science) from USC and strong experience in building, optimizing, and deploying ML models.
 
-I am eager to contribute my skills and knowledge to a team that is passionate about using ML to solve real-world problems. I am confident that I can quickly learn and adapt to new challenges, and I am always looking for new ways to improve my skills and knowledge. A well-rounded skill set, coupled with a strong academic and professional background, positions me as an ideal candidate for roles in ML Engineering, Data Scienctist, and MLOps.</p>
+I am eager to contribute my skills and knowledge to a team that is passionate about using ML to solve real-world problems. I am confident that I can quickly learn and adapt to new challenges, and I am always looking for new ways to improve my skills and knowledge. A well-rounded skill set, coupled with a strong academic and professional background, positions me as an ideal candidate for roles in ML Engineering, Data Scientist, and MLOps.</p>
 <h2 id="education">Education</h2>
 <h3 id="university-of-southern-california-los-angeles-ca">University of Southern California, Los Angeles, CA</h3>
 <p>Master of Science in Electrical Engineering (Machine Learning and Data Science)</p>
