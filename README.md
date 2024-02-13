@@ -28,10 +28,12 @@
   <body>
     <div class="wrapper">
       <header>
+          <div class="header-wrapper">
         <h1><a href="https://prthvk.github.io/">Prithvik Gowda</a></h1>
           <img src="/assets/img/headshot_circle.png" alt="Logo">
         <p></p>
         <p class="view"><a href="https://github.com/prthvk">View My GitHub Profile</a></p>
+          </div>
       </header>
       <section>
 
