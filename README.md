@@ -29,7 +29,7 @@
     <div class="wrapper">
       <header>
         <h1><a href="https://prthvk.github.io/">Prithvik Gowda</a></h1>
-          <img src="/assets/img/headshot_circle.png" width="400" height="300" alt="Logo">
+          <img src="/assets/img/headshot_circle.png" width="400" height="400" alt="Logo">
         <p></p>
         <p class="view"><a href="https://github.com/prthvk">View My GitHub Profile</a></p>
       </header>
