@@ -65,7 +65,7 @@ and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelera
 <p><strong>Research Assistant @ Information Science Institute (USC) (<em>June 2023 - Present</em>)</strong></p>
 <ul>
   <li>Developing a distributed EDGE system incorporating security features to counter potential cyber or AI-related attacks and explore possible optimization strategies for private inference algorithms using MPC protocol.</li>
-      <li>Developed a secure image classification model (VGG-16) and achieved 52% accuracy for CIFAR-10 dataset while preserving data privacy through secure aggregation and homomorphic encryption techniques.</li>
+      <li>Developed a secure image classification model (ResNet-50) and achieved 52% accuracy for CIFAR-10 dataset while preserving data privacy through secure aggregation and homomorphic encryption techniques.</li>
 </ul>
 
 <p><strong>Senior Analyst in Software Engineering @ NatWest Group, Bengaluru (India) (<em>September 2020 - August 2022</em>)</strong></p>
