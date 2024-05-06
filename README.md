@@ -55,7 +55,7 @@ and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelera
 
 <h2 id="skills">Skills</h2>
 
-<p>Programming Languages: Python, C++, Java, SQL</p>
+<p>Programming Languages: Python, C++, Java, MySQL, NoSQL</p>
 
 <p>Frameworks/Tools: PyTorch, Scikit-learn, GitHub Actions, Git, Pandas, NumPy, MLFlow, Azure ML, Databricks, Crypten, SciPy, TensorFlow, Matplotlib, Spring Boot, MongoDB, Docker, MLOps</p>
 
