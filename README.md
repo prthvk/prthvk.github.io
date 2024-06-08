@@ -74,6 +74,14 @@ and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelera
 </ul>
 
 <h2 id="projects">Projects</h2>
+
+<h3 id="researchbot">ResearchBot</h3>
+
+<ul>
+  <li>Developed a conversational chatbot with the Retrieval Augmented Generation (RAG) technique using LangChain to facilitate scientific literature exploration/discussion through natural language queries.</li>
+    <li>Leveraged FAISS vector database to store related research papers and built the application with Mistral-7b LLM, streamlining users to retrieve and analyze scientific papers and enhancing the research workflow.</li>
+</ul>
+
 <h3 id="llama-2-finetuning">Llama 2 Finetuning</h3>
 
 <ul>
