@@ -39,7 +39,9 @@
       <section>
 
 <h2 id="summary">Summary</h2>
-<p>Hi! my name is Prithvik and I'm a graduate with Master’s in Electrical Engineering (Machine Learning and Data Science) from the University of Southern California, Los Angeles, with a couple of years of industry experience. A student of AI with proven ability to design, develop, and deploy secure and efficient machine learning models across diverse domains. My area of focus is Natural Language Processing (NLP), with experience in LLM fine-tuning and RAG applications. Possesses strong expertise in deep learning frameworks (PyTorch, TensorFlow), MLOps tools (MLFlow, Azure ML), and distributed computing (Spark, Hadoop). Demonstrated success in building CI/CD pipelines and optimizing model performance for real-world applications. I am eager to contribute my skills and knowledge to a team that is passionate about using ML to solve real-world problems. I am confident that I can quickly learn and adapt to new challenges, and I am always looking for new ways to improve my skills and knowledge. A well-rounded skill set, coupled with a strong academic and professional background, positions me as an ideal candidate for roles in ML Engineering, Data Scientist, and MLOps.</p>
+<p>Hi! my name is Prithvik and I'm a graduate with Master’s in Electrical Engineering (Machine Learning and Data Science) from the University of Southern California, Los Angeles, with a couple of years of industry experience. A student of AI with proven ability to design, develop, and deploy secure and efficient machine learning models across diverse domains. My area of focus is Natural Language Processing (NLP), with experience in LLM fine-tuning and RAG applications. Possesses strong expertise in deep learning frameworks (PyTorch, TensorFlow), MLOps tools (MLFlow, Azure ML), and distributed computing (Spark, Hadoop). Demonstrated success in building CI/CD pipelines and optimizing model performance for real-world applications.</p>
+    
+<p>I am eager to contribute my skills and knowledge to a team that is passionate about using ML to solve real-world problems. I am confident that I can quickly learn and adapt to new challenges, and I am always looking for new ways to improve my skills and knowledge. A well-rounded skill set, coupled with a strong academic and professional background, positions me as an ideal candidate for roles in ML Engineering, Data Scientist, and MLOps.</p>
 <h2 id="education">Education</h2>
 <h3 id="university-of-southern-california-los-angeles-ca">University of Southern California, Los Angeles, CA</h3>
 <p>Master of Science in Electrical Engineering (Machine Learning and Data Science)</p>
@@ -52,13 +54,13 @@ and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelera
 
 <h2 id="skills">Skills</h2>
 
-<p>Programming Languages: Python, C++, Java, SQL, NoSQL, HTML/CSS, JavaScript</p>
+<p><b>Programming Languages:</b> Python, C++, Java, SQL, NoSQL, HTML/CSS, JavaScript</p>
 
-<p>Data & Analytics: Pandas, NumPy, BigQuery, Hadoop, Spark, Tableau, SciPy, Matplotlib, Seaborn</p>
+<p><b>Data & Analytics:</b> Pandas, NumPy, BigQuery, Hadoop, Spark, Tableau, SciPy, Matplotlib, Seaborn</p>
 
-<p>AI/ML: PyTorch, TensorFlow, Scikit-Learn, Transformers, LangChain, Crypten</p>
+<p><b>AI/ML:</b> PyTorch, TensorFlow, Scikit-Learn, Transformers, LangChain, Crypten</p>
 
-<p>DevOps: Git, GitHub Actions, JIRA, MLFlow, Azure ML, Databricks, Docker</p>
+<p><b>DevOps:</b> Git, GitHub Actions, JIRA, MLFlow, Azure ML, Databricks, Docker</p>
 
 <h2 id="work-experience">Work Experience</h2>
 <p><strong>Research Assistant @ Information Science Institute (USC), Los Angeles, CA (<em>June 2023 - May 2024</em>)</strong></p>
