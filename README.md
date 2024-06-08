@@ -32,7 +32,8 @@
         <h1><a href="https://prthvk.github.io/">Prithvik Gowda</a></h1>
           <img src="/assets/img/headshot-2.png" width="50%" height="50%" alt="Logo">
         <p></p>
-        <p class="view"><a href="https://github.com/prthvk">View My GitHub Profile</a></p>
+        <p class="view"><a href="https://www.github.com/prthvk">GitHub</a></p>
+        <p class="view"><a href="https://www.linkedin.com/in/prthvk">LinkedIn</a></p>
           </div>
       </header>
       <section>
