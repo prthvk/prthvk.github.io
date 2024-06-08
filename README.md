@@ -38,11 +38,7 @@
       <section>
 
 <h2 id="summary">Summary</h2>
-<p>Hi!
-
-Leveraging AI to solve complex challenges and create impactful solutions. I am eager to contribute my skills and experience to a team pushing the boundaries of machine learning. I bring a strong foundation in data analysis and software engineering to solve real-world problems. With a Master's in Electrical Engineering (Machine Learning & Data Science) from USC and strong experience in building, optimizing, and deploying ML models.
-
-I am eager to contribute my skills and knowledge to a team that is passionate about using ML to solve real-world problems. I am confident that I can quickly learn and adapt to new challenges, and I am always looking for new ways to improve my skills and knowledge. A well-rounded skill set, coupled with a strong academic and professional background, positions me as an ideal candidate for roles in ML Engineering, Data Scientist, and MLOps.</p>
+<p>Hi! my name is Prithvik and I'm a graduate student at USC with an AI/ML background and 2 years of industry experience. A student of AI with a Master's in Electrical Engineering (Machine Learning and Data Science) from USC. Proven ability to design, develop, and deploy secure and efficient machine learning models across diverse domains. My area of focus is Natural Language Processing (NLP), with experience in LLM fine-tuning and RAG applications. Possesses strong expertise in deep learning frameworks (PyTorch, TensorFlow), MLOps tools (MLFlow, Azure ML), and distributed computing (Spark, Hadoop). Demonstrated success in building CI/CD pipelines and optimizing model performance for real-world applications. I am eager to contribute my skills and knowledge to a team that is passionate about using ML to solve real-world problems. I am confident that I can quickly learn and adapt to new challenges, and I am always looking for new ways to improve my skills and knowledge. A well-rounded skill set, coupled with a strong academic and professional background, positions me as an ideal candidate for roles in ML Engineering, Data Scientist, and MLOps.</p>
 <h2 id="education">Education</h2>
 <h3 id="university-of-southern-california-los-angeles-ca">University of Southern California, Los Angeles, CA</h3>
 <p>Master of Science in Electrical Engineering (Machine Learning and Data Science)</p>
@@ -55,14 +51,16 @@ and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelera
 
 <h2 id="skills">Skills</h2>
 
-<p>Programming Languages: Python, C++, Java, MySQL, NoSQL</p>
+<p>Programming Languages: Python, C++, Java, SQL, NoSQL, HTML/CSS, JavaScript</p>
 
-<p>Frameworks/Tools: PyTorch, Scikit-learn, GitHub Actions, Git, Pandas, NumPy, MLFlow, Azure ML, Databricks, Crypten, SciPy, TensorFlow, Matplotlib, Spring Boot, MongoDB, Docker, MLOps</p>
+<p>Data & Analytics: Pandas, NumPy, BigQuery, Hadoop, Spark, Tableau, SciPy, Matplotlib, Seaborn</p>
 
-<p>Web Technologies: HTML/CSS, JavaScript, Angular, Typescript</p>
+<p>AI/ML: PyTorch, TensorFlow, Scikit-Learn, Transformers, LangChain, Crypten</p>
+
+<p>DevOps: Git, GitHub Actions, JIRA, MLFlow, Azure ML, Databricks, Docker</p>
 
 <h2 id="work-experience">Work Experience</h2>
-<p><strong>Research Assistant @ Information Science Institute (USC) (<em>June 2023 - May 2024</em>)</strong></p>
+<p><strong>Research Assistant @ Information Science Institute (USC), Los Angeles, CA (<em>June 2023 - May 2024</em>)</strong></p>
 <ul>
   <li>Designed a distributed EDGE system incorporating security features to counter potential cyber or AI-related attacks and explore possible optimization strategies for private inference algorithms using MPC protocol.</li>
       <li>Developed a secure image classification model (ResNet-50) and achieved 52% accuracy for CIFAR-10 dataset while preserving data privacy through secure aggregation and homomorphic encryption techniques.</li>
@@ -79,12 +77,12 @@ and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelera
 <h3 id="llama-2-finetuning">Llama 2 Finetuning</h3>
 
 <ul>
-  <li>Efficiently fine-tuned Llama2-7B model on a single GPU using strategies such as gradient accumulation, gradient checkpointing, mixed precision training, and low-rank adaptation on the Alpaca dataset.</li>
-    <li>Achieved optimal performance of the text generation feature of the model with only ~42GB of memory utilization by the system deployed the model on HuggingFace.</li>
+  <li>Efficiently fine-tuned Llama2-7B model on a single GPU using gradient accumulation, checkpointing, automatic mixed precision training, and low-rank adaptation on the Alpaca dataset with only ~42GB of memory utilization.</li>
+    <li>Optimized model inference for Llama's general-purpose text generation feature with quantization and model compression techniques like knowledge distillation and pruning and deployed the model on HuggingFace.</li>
 </ul>
 
 
-<h3 id="computer-vision-for-american-sign-language">Computer Vision for American Sign Language</h3>
+<h3 id="computer-vision-for-american-sign-language">American Sign Language Interpreter</h3>
 
 <ul>
   <li>Fine-tuned a pre-trained ResNet-50 deep neural network to recognize ASL hand gestures. Trained the model with 27000 images and achieved 66% accuracy on an unseen test dataset.</li>
@@ -96,16 +94,15 @@ and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelera
 
 <ul>
   <li>Developed a reliable classification model to predict credit card payment defaults by analyzing a dataset of 30,000 Taiwanese customers’ payment information over six months.</li>
-  <li>Trained and evaluated multiple machine learning models with dimensionality reduction and achieved 76.4% accuracy and an F1 score of 0.462 on the test data with extensive data exploration, pre-processing, and feature engineering techniques.</li>
+  <li>Trained and evaluated multiple machine learning models/techniques and achieved 76.4% accuracy and an F1 score of 0.689 on the test data with extensive data exploration, pre-processing, and feature engineering techniques.</li>
 </ul>
 
 
-<h3 id="credit-card-defaulter-analyzer">House Price Prediction</h3>
+<h3 id="credit-card-defaulter-analyzer">House Price Predictor</h3>
 
 <ul>
   <li>Developed a machine learning model to predict house prices with historical data. Experimented with algorithms (e.g., Gradient Boosting, Random Forest, XGBoost) and hyperparameter tuning to improve the model's accuracy further.</li>
-  <li>Created informative visualizations using Matplotlib and Seaborn to showcase the feature importance, correlations, and model
-performance metrics. With feature engineering, achieved a mean absolute error of ~$17000.</li>
+  <li>Created informative visualizations using Matplotlib and Seaborn to showcase the feature importance, correlations, and model performance metrics. With feature engineering, achieved a mean absolute error of ~$17000.</li>
 </ul>
 
 
