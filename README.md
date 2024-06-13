@@ -46,9 +46,6 @@
 <h3 id="university-of-southern-california-los-angeles-ca">University of Southern California, Los Angeles, CA</h3>
 <p>Master of Science in Electrical Engineering (Machine Learning and Data Science)</p>
 
-<p>Coursework: Probability Theory, Linear Algebra, Machine Learning I: Supervised Learning, Deep Learning, Computing
-and Software Systems for Engineering, Systems for Machine Learning (GPU/Accelerators), Database Systems, Language Models in NLP</p>
-
 <h3 id="rv-college-of-engineering-bengaluru-india">RV College of Engineering, Bengaluru, India</h3>
 <p>Bachelor of Engineering in Telecommunications Engineering</p>
 
