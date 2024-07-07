@@ -111,8 +111,8 @@
 <h3 id="credit-card-defaulter-analyzer">House Price Predictor</h3>
 
 <ul>
-  <li>Developed a machine learning model to predict house prices with historical data. Experimented with algorithms (e.g., Gradient Boosting, Random Forest, XGBoost) and hyperparameter tuning to improve the model's accuracy further.</li>
-  <li>Created informative visualizations using Matplotlib and Seaborn to showcase the feature importance, correlations, and model performance metrics. With feature engineering, achieved a mean absolute error of ~$17000.</li>
+  <li>Developed a machine learning model to predict house prices with historical data. Experimented with algorithms (e.g., Random Forest, XGBoost, Logistic Regression, etc.) and hyperparameter tuning to improve the model's accuracy.</li>
+  <li>Created informative visualizations to showcase the importance of features, correlations, trends, and model performance metrics, and with feature engineering, achieved a mean absolute error (MAE) of ~$17000.</li>
 </ul>
 
 
