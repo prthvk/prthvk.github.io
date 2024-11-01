@@ -43,7 +43,7 @@
     
 <p>My area of focus is Natural Language Processing (NLP), with experience in LLM fine-tuning and RAG applications. Possesses strong expertise in deep learning frameworks (PyTorch, TensorFlow), MLOps tools (MLFlow, Azure ML), and distributed computing (Spark, Hadoop). Demonstrated success in building CI/CD pipelines and optimizing model performance for real-world applications.</p>
     
-<p>I am eager to contribute my skills and knowledge to a team that is passionate about using ML to solve real-world problems. I am confident that I can quickly learn and adapt to new challenges, and I am always looking for new ways to improve my skills and knowledge. A well-rounded skill set, coupled with a strong academic and professional background, positions me as an ideal candidate for roles in ML Engineering, Data Scientist, and MLOps.</p>
+<p>I am eager to contribute my skills and knowledge to a team passionate about using ML to solve real-world problems. I am confident that I can quickly learn and adapt to new challenges, and I am always looking for new ways to improve my skills and knowledge. A well-rounded skill set, coupled with a strong academic and professional background, make me an ideal candidate for roles such as Machine Learning Engineer, Data Scientist, and MLOps Engineer.</p>
 <h2 id="education">Education</h2>
 <h3 id="university-of-southern-california-los-angeles-ca">University of Southern California, Los Angeles, CA</h3>
 <p>Master of Science in Electrical Engineering (Machine Learning and Data Science)</p>
@@ -70,8 +70,8 @@
 
 <p><strong>Senior Analyst in Software Engineering @ NatWest Group, Bengaluru (India) (<em>September 2020 - August 2022</em>)</strong></p>
 <ul>
-  <li>Developed email classification application using KNNs and random forest algorithms that classified and extracted data for 18 different categories with an average accuracy of 78% and helped streamline internal communication processes.</li>
-  <li>Developed a CI/CD pipeline for the email classification application with GitHub Actions and Azure Databricks and made it deployment-ready on the Azure cloud platform.</li>
+  <li>Reduced the turn-around time for customer service requests by 2 business days by developing an email classification and data extraction application using KNNs and Random Forest algorithms with an average accuracy of 78%.</li>
+  <li>Engineered a CI/CD pipeline for the email classification application with GitHub Actions and Azure Databricks and ensured it was ready for deployment on the Azure cloud platform.</li>
   <li>Designed dialogue flow for NatWest Mobile Banking Application’s CORA chatbot using IBM Watson Assistant for Covid-19 related conversational AI journey/skill for bank online banking to serve 11 million users.</li>
 </ul>
 
@@ -89,6 +89,13 @@
 <ul>
   <li>Efficiently fine-tuned Llama2-7B model on a single GPU using gradient accumulation, checkpointing, automatic mixed precision training, and low-rank adaptation on the Alpaca dataset with only ~42GB of memory utilization.</li>
     <li>Optimized model inference for Llama's general-purpose text generation feature with quantization and model compression techniques like knowledge distillation and pruning and deployed the model on HuggingFace.</li>
+</ul>
+
+
+<h3 id="AI-therapist">AI Therapist</h3>
+
+<ul>
+  <li>Developed AI therapist prototype by fine-tuning GPT-3 on extensive psychological datasets, achieving identification of patient mood states, and demonstrating empathetic responses and therapeutic interventions.</li>
 </ul>
 
 
