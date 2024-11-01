@@ -99,6 +99,14 @@
 </ul>
 
 
+<h3 id="sentiment-analyzer">Sentiment Analyzer</h3>
+
+<ul>
+  <li>Developed a sentiment analysis and classification application using PySpark to load, process, and analyze reviews from e-commerce websites by creating GloVe embeddings of the tweets.</li>
+  <li>Created an MLFlow dashboard to monitor the model’s performance and achieved 84% accuracy and an F1 score of 0.73 by comparing with two neural networks, LSTM and BERT.</li>
+</ul>
+
+
 <h3 id="computer-vision-for-american-sign-language">American Sign Language Interpreter</h3>
 
 <ul>
