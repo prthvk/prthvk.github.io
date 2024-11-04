@@ -62,10 +62,10 @@
 <p><b>DevOps:</b> Git, GitHub Actions, JIRA, MLFlow, Azure ML, Databricks, Docker</p>
 
 <h2 id="work-experience">Work Experience</h2>
-<p><strong>Research Assistant @ Information Science Institute (USC), Los Angeles, CA (<em>June 2023 - May 2024</em>)</strong></p>
+<p><strong>Research Assistant @ Information Science Institute (USC), Los Angeles, CA (<em>June 2023 - Present</em>)</strong></p>
 <ul>
-  <li>Designed a distributed EDGE system incorporating security features to counter potential cyber or AI-related attacks and explore possible optimization strategies for private inference algorithms using MPC protocol.</li>
-      <li>Developed a secure image classification model (ResNet-50) and achieved 52% accuracy for CIFAR-10 dataset while preserving data privacy through secure aggregation and homomorphic encryption techniques.</li>
+  <li>Efficiently fine-tuned Llama2-7B model on a single GPU using gradient accumulation, checkpointing, automatic mixed precision training, and low-rank adaptation (LoRA) on the Alpaca dataset with only ~42GB of memory utilization.</li>
+      <li>Optimized model inference by leveraging the vLLM library, reducing GPU memory usage and increasing the throughput up to 3x compared to regular inference techniques.</li>
 </ul>
 
 <p><strong>Senior Analyst in Software Engineering @ NatWest Group, Bengaluru (India) (<em>September 2020 - August 2022</em>)</strong></p>
@@ -84,11 +84,11 @@
     <li>Leveraged FAISS vector database to store related research papers and built the application with Mistral-7b LLM, streamlining users to retrieve and analyze scientific papers and enhancing the research workflow.</li>
 </ul>
 
-<h3 id="llama-2-finetuning">Llama 2 Finetuning</h3>
+<h3 id="translator">Translator AI</h3>
 
 <ul>
-  <li>Efficiently fine-tuned Llama2-7B model on a single GPU using gradient accumulation, checkpointing, automatic mixed precision training, and low-rank adaptation on the Alpaca dataset with only ~42GB of memory utilization.</li>
-    <li>Optimized model inference for Llama's general-purpose text generation feature with quantization and model compression techniques like knowledge distillation and pruning and deployed the model on HuggingFace.</li>
+  <li>Fine-tuned pre-trained GPT-2 model for text-to-text translation (English to French) using Hugging Face’s transformers library, achieving an average BLEU score of 8.923.</li>
+    <li>Enhanced model performance with the vLLM library for efficient GPU-accelerated inference, reducing latency and increasing throughput to 85 tokens/sec.</li>
 </ul>
 
 
