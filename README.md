@@ -53,25 +53,28 @@
 
 <h2 id="skills">Skills</h2>
 
-<p><b>Programming Languages:</b> Python, C++, Java, SQL, NoSQL, HTML/CSS, JavaScript</p>
+<p><b>Programming Languages:</b> Python, C++, Java, SQL, NoSQL</p>
 
-<p><b>Data & Analytics:</b> Pandas, NumPy, BigQuery, Hadoop, Spark, Tableau, SciPy, Matplotlib, Seaborn</p>
+<p><b>Data & Analytics:</b> Pandas, NumPy, BigQuery, Snowflake, Spark, Tableau, Matplotlib</p>
 
-<p><b>AI/ML:</b> PyTorch, TensorFlow, Scikit-Learn, Transformers, LangChain, Crypten</p>
+<p><b>AI/ML:</b> PyTorch, TensorFlow, Scikit-Learn, Transformers, LangChain, vLLM</p>
 
-<p><b>DevOps:</b> Git, GitHub Actions, JIRA, MLFlow, Azure ML, Databricks, Docker</p>
+<p><b>DevOps:</b> Git, GitHub Actions, Jupyter, JIRA, MLFlow, Azure ML, Databricks, Docker</p>
 
 <h2 id="work-experience">Work Experience</h2>
 <p><strong>Research Assistant @ Information Science Institute (USC), Los Angeles, CA (<em>June 2023 - Present</em>)</strong></p>
 <ul>
-  <li>Efficiently fine-tuned Llama2-7B model on a single GPU using gradient accumulation, checkpointing, automatic mixed precision training, and low-rank adaptation (LoRA) on the Alpaca dataset with only ~42GB of memory utilization.</li>
-      <li>Optimized model inference by leveraging the vLLM library, reducing GPU memory usage and increasing the throughput up to 3x compared to regular inference techniques.</li>
+  <li>Efficiently fine-tuned Llama2-7B model on a single GPU using Parameter Efficient Fine-tuning (PEFT) techniques.</li>
+    <li>Achieved efficient memory usage, requiring only ~42GB of GPU memory during fine-tuning on the Alpaca dataset.</li>
+    <li>Optimized model inference by leveraging the vLLM library, reducing GPU memory usage and increasing the throughput up to 3x compared to regular inference techniques.</li>
 </ul>
 
 <p><strong>Senior Analyst in Software Engineering @ NatWest Group, Bengaluru (India) (<em>September 2020 - August 2022</em>)</strong></p>
 <ul>
-  <li>Reduced the turn-around time for customer service requests by 2 business days by developing an email classification and data extraction application using KNNs and Random Forest algorithms with an average accuracy of 78%.</li>
-  <li>Engineered a CI/CD pipeline for the email classification application with GitHub Actions and Azure Databricks and ensured it was ready for deployment on the Azure cloud platform.</li>
+  <li>Reduced the turn-around time for customer service requests by 60% by developing an email classification and data extraction
+application.</li>
+  <li>Developed KNNs and Random Forest classification algorithms with an average accuracy of 78%.</li>
+    <li>Engineered a CI/CD pipeline for the email classification application with GitHub Actions and Azure Databricks, preparing it for seamless deployment on the Azure cloud platform.</li>
   <li>Designed dialogue flow for NatWest Mobile Banking Application’s CORA chatbot using IBM Watson Assistant for Covid-19 related conversational AI journey/skill for bank online banking to serve 11 million users.</li>
 </ul>
 
@@ -80,17 +83,24 @@
 <h3 id="researchbot">ResearchBot</h3>
 
 <ul>
-  <li>Developed a conversational chatbot with the Retrieval Augmented Generation (RAG) technique using LangChain to facilitate scientific literature exploration/discussion through natural language queries.</li>
+  <li>Developed a conversational chatbot using the Retrieval Augmented Generation (RAG) technique using LangChain to facilitate scientific literature exploration/discussion through natural language queries.</li>
     <li>Leveraged FAISS vector database to store related research papers and built the application with Mistral-7b LLM, streamlining users to retrieve and analyze scientific papers and enhancing the research workflow.</li>
 </ul>
 
 <h3 id="translator">Translator AI</h3>
 
 <ul>
-  <li>Fine-tuned pre-trained GPT-2 model for text-to-text translation (English to French) using Hugging Face’s transformers library, achieving an average BLEU score of 8.923.</li>
+  <li>Fine-tuned GPT-2 model for text-to-text translation (English to French) using HuggingFace’s transformers library, achieving an average BLEU score of 8.923.</li>
     <li>Enhanced model performance with the vLLM library for efficient GPU-accelerated inference, reducing latency and increasing throughput to 85 tokens/sec.</li>
 </ul>
 
+
+<h3 id="sentiment-analyzer">Sentiment Analyzer</h3>
+
+<ul>
+  <li>Developed a sentiment analysis application with PySpark to process and analyze e-commerce product reviews using the LSTM network, achieving 62% accuracy and an F1 score of 0.568.</li>
+  <li>Created an MLFlow dashboard to monitor the model’s performance and compare it with transformer-based models like BERT, which achieved 84% accuracy and an F1 score of 0.713.</li>
+</ul>
 
 <h3 id="AI-therapist">AI Therapist</h3>
 
@@ -98,19 +108,10 @@
   <li>Developed AI therapist prototype by fine-tuning GPT-3 on extensive psychological datasets, achieving identification of patient mood states, and demonstrating empathetic responses and therapeutic interventions.</li>
 </ul>
 
-
-<h3 id="sentiment-analyzer">Sentiment Analyzer</h3>
-
-<ul>
-  <li>Developed a sentiment analysis and classification application using PySpark to load, process, and analyze reviews from e-commerce websites by creating GloVe embeddings of the tweets.</li>
-  <li>Created an MLFlow dashboard to monitor the model’s performance and achieved 84% accuracy and an F1 score of 0.73 by comparing with two neural networks, LSTM and BERT.</li>
-</ul>
-
-
-<h3 id="computer-vision-for-american-sign-language">American Sign Language Interpreter</h3>
+<h3 id="computer-vision-for-american-sign-language">ASL Interpreter</h3>
 
 <ul>
-  <li>Fine-tuned a pre-trained ResNet-50 deep neural network to recognize ASL hand gestures. Trained the model with 27000 images and achieved 66% accuracy on an unseen test dataset.</li>
+  <li> Fine-tuned ResNet-50 deep neural network to recognize ASL hand gestures. Trained the model with 27,000 images and achieved 66% accuracy on an unseen test dataset.</li>
   <li>Created an MLFlow dashboard to monitor the model’s performance during finetuning and leveraged GitHub Actions for CI/CD.</li>
     <li>Developed a Python script to detect and live transcribe ASL hand gestures using the Google text-to-speech (gTTS) library.</li>
 </ul>
@@ -126,8 +127,10 @@
 <h3 id="credit-card-defaulter-analyzer">House Price Predictor</h3>
 
 <ul>
-  <li>Developed a machine learning model to predict house prices with historical data. Experimented with algorithms (e.g., Random Forest, XGBoost, Logistic Regression, etc.) and hyperparameter tuning to improve the model's accuracy.</li>
-  <li>Created informative visualizations to showcase the importance of features, correlations, trends, and model performance metrics, and with feature engineering, achieved a mean absolute error (MAE) of ~$17000.</li>
+  <li>Built a machine learning model to predict house prices using historical data and optimized accuracy with algorithms like Random Forest and XGBoost.</li>
+  <li>Conducted exploratory data analysis (EDA), feature engineering, and dimensionality reduction to enhance model performance.</li>
+    <li>Trained and evaluated multiple models with hyperparameter tuning, achieving a mean absolute error (MAE) of ~$17,000.</li>
+      <li>Created visualizations to analyze the importance of features, correlations, trends, and model performance metrics.</li>
 </ul>
 
 
