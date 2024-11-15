@@ -64,15 +64,14 @@
 <h2 id="work-experience">Work Experience</h2>
 <p><strong>Research Assistant @ Information Science Institute (USC), Los Angeles, CA (<em>June 2023 - Present</em>)</strong></p>
 <ul>
-  <li>Efficiently fine-tuned Llama2-7B model on a single GPU using Parameter Efficient Fine-tuning (PEFT) techniques.</li>
+  <li>Efficiently fine-tuned Llama2-7B model on a single GPU using Parameter Efficient Fine-tuning (PEFT) techniques, improving model performance and reducing resource usage</li>
     <li>Achieved efficient memory usage, requiring only ~42GB of GPU memory during fine-tuning on the Alpaca dataset.</li>
     <li>Optimized model inference by leveraging the vLLM library, reducing GPU memory usage and increasing the throughput up to 3x compared to regular inference techniques.</li>
 </ul>
 
 <p><strong>Senior Analyst in Software Engineering @ NatWest Group, Bengaluru (India) (<em>September 2020 - August 2022</em>)</strong></p>
 <ul>
-  <li>Reduced the turn-around time for customer service requests by 60% by developing an email classification and data extraction
-application.</li>
+  <li>Reduced the turn-around time for customer service requests by 60% by developing an email classification application.</li>
   <li>Developed KNNs and Random Forest classification algorithms with an average accuracy of 78%.</li>
     <li>Engineered a CI/CD pipeline for the email classification application with GitHub Actions and Azure Databricks, preparing it for seamless deployment on the Azure cloud platform.</li>
   <li>Designed dialogue flow for NatWest Mobile Banking Application’s CORA chatbot using IBM Watson Assistant for Covid-19 related conversational AI journey/skill for bank online banking to serve 11 million users.</li>
