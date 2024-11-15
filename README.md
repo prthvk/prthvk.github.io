@@ -62,7 +62,7 @@
 <p><b>DevOps:</b> Git, GitHub Actions, Jupyter, JIRA, MLFlow, Azure ML, Databricks, Docker</p>
 
 <h2 id="work-experience">Work Experience</h2>
-<p><strong>Research Assistant @ Information Science Institute (USC), Los Angeles, CA (<em>June 2023 - Present</em>)</strong></p>
+<p><strong>Research Assistant @ USC Information Science Institute, Los Angeles, CA (<em>June 2023 - Present</em>)</strong></p>
 <ul>
   <li>Efficiently fine-tuned Llama2-7B model on a single GPU using Parameter Efficient Fine-tuning (PEFT) techniques, improving model performance and reducing resource usage</li>
     <li>Achieved efficient memory usage, requiring only ~42GB of GPU memory during fine-tuning on the Alpaca dataset.</li>
