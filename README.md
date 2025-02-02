@@ -62,7 +62,7 @@
 <p><b>DevOps:</b> Git, GitHub Actions, Jupyter, JIRA, MLFlow, Azure ML, Databricks, Docker</p>
 
 <h2 id="work-experience">Work Experience</h2>
-<p><strong>Research Assistant @ USC Information Science Institute, Los Angeles, CA (<em>June 2023 - Present</em>)</strong></p>
+<p><strong>Intern @ Easley-Dunn Productions, Inc., Los Angeles, CA (<em>July 2024 - Present</em>)</strong></p>
 <ul>
   <li>Efficiently fine-tuned Llama2-7B model on a single GPU using Parameter Efficient Fine-tuning (PEFT) techniques, improving model performance and reducing resource usage</li>
     <li>Achieved efficient memory usage, requiring only ~42GB of GPU memory during fine-tuning on the Alpaca dataset.</li>
@@ -74,6 +74,8 @@
   <li>Reduced the turn-around time for customer service requests by 60% by developing an email classification application.</li>
   <li>Developed KNNs and Random Forest classification algorithms with an average accuracy of 78%.</li>
     <li>Engineered a CI/CD pipeline for the email classification application with GitHub Actions and Azure Databricks, preparing it for seamless deployment on the Azure cloud platform.</li>
+    <li>Improved the performance of the credit card fraud detection model by developing a neural network, leading to a 25% increase in the F1 score of the model.</li>
+    <li>Achieved a 7%-points increase in recall with feature engineering and data pre-processing compared to the baseline model.</li>
   <li>Designed dialogue flow for NatWest Mobile Banking Application’s CORA chatbot using IBM Watson Assistant for Covid-19 related conversational AI journey/skill for bank online banking to serve 11 million users.</li>
 </ul>
 
