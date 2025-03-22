@@ -5,25 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-
-
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/styles/jekyll-theme-minimal.css">
-    <!--[if lt IE 9]>
-    <![endif]-->
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
   </head>
   <body>
     <div class="wrapper">
@@ -64,18 +45,19 @@
 <h2 id="work-experience">Work Experience</h2>
 <p><strong>Intern @ Easley-Dunn Productions, Inc., Los Angeles, CA (<em>July 2024 - Present</em>)</strong></p>
 <ul>
-  <li>Efficiently fine-tuned Llama2-7B model on a single GPU using Parameter Efficient Fine-tuning (PEFT) techniques, improving model performance and reducing resource usage</li>
-    <li>Achieved efficient memory usage, requiring only ~42GB of GPU memory during fine-tuning on the Alpaca dataset.</li>
-    <li>Optimized model inference by leveraging the vLLM library, reducing GPU memory usage and increasing the throughput up to 3x compared to regular inference techniques.</li>
+  <li>Efficiently fine-tuned Llama2-7B model on a single GPU using Parameter Efficient Fine-tuning (PEFT) techniques, improving model performance and reducing resource usage.</li>
+    <li>Achieved efficient memory usage, requiring around 42GB of GPU memory during fine-tuning on the Alpaca dataset.</li>
+    <li>Reduced the model size by 55% with Post-Training Quantization (8 bit) and deployed on HuggingFace platform.</li>
+    <li>Optimized model inference using the vLLM library, reducing GPU memory usage, and increasing the throughput up to 3x compared to regular inference techniques.</li>
 </ul>
 
-<p><strong>Senior Analyst in Software Engineering @ NatWest Group, Bengaluru (India) (<em>September 2020 - August 2022</em>)</strong></p>
+<p><strong>Software Engineer @ NatWest Group, Bengaluru (India) (<em>September 2020 - August 2022</em>)</strong></p>
 <ul>
   <li>Reduced the turn-around time for customer service requests by 60% by developing an email classification application.</li>
-  <li>Developed KNNs and Random Forest classification algorithms with an average accuracy of 78%.</li>
+  <li>Developed KNN and Random Forest classification models with an average accuracy of 78%.</li>
     <li>Engineered a CI/CD pipeline for the email classification application with GitHub Actions and Azure Databricks, preparing it for seamless deployment on the Azure cloud platform.</li>
     <li>Improved the performance of the credit card fraud detection model by developing a neural network, leading to a 25% increase in the F1 score of the model.</li>
-    <li>Achieved a 7%-points increase in recall with feature engineering and data pre-processing compared to the baseline model.</li>
+    <li>Achieved a 7%-point increase in recall with feature engineering and data pre-processing compared to the baseline model.</li>
   <li>Designed dialogue flow for NatWest Mobile Banking Application’s CORA chatbot using IBM Watson Assistant for Covid-19 related conversational AI journey/skill for bank online banking to serve 11 million users.</li>
 </ul>
 
@@ -129,7 +111,7 @@
 
 <ul>
   <li>Built a machine learning model to predict house prices using historical data and optimized accuracy with algorithms like Random Forest and XGBoost.</li>
-  <li>Conducted exploratory data analysis (EDA), feature engineering, and dimensionality reduction to enhance model performance.</li>
+  <li>Enhanced model performance by 33\% compared to baseline model with exploratory data analysis (EDA), feature engineering, and dimensionality reduction.</li>
     <li>Trained and evaluated multiple models with hyperparameter tuning, achieving a mean absolute error (MAE) of ~$17,000.</li>
       <li>Created visualizations to analyze the importance of features, correlations, trends, and model performance metrics.</li>
 </ul>
